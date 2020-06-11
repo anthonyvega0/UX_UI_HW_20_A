@@ -1,0 +1,184 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: orange;
+}
+
+.sub-intro {
+    width: 75%;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.task {
+    margin-top: -20px;
+    text-align: center;
+}
+
+.jumbo {
+    height: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.margin {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 25px;
+}
+
+.objective {
+    display: flex;
+    flex-direction: row;
+}
+
+.personas{
+    display: flex;
+    flex-direction: row;
+}
+
+.spacing {
+    margin-right: 0px;
+}
+
+.sizing {
+    width: 100%
+}
+.smaller {
+    width: 60%;
+    margin-left: 40%;
+}
+.sizemid {
+    display: flex;
+    flex-direction: row;
+}
+
+.tom {
+    width: 60%;
+}
+ .ftrprio {
+     margin-left: 0px;
+ }
+
+ .title-padding {
+     margin-left: -70px;
+ }
+
+ .task-box {
+     display: flex;
+     flex-direction: row-reverse;
+ }
+ .shrink {
+     align-self: center;
+     width: 400px;
+     padding-right: 100px;
+     
+ }
+ .shell {
+     align-self: center;
+     width: 400px;
+     padding-left: 100px;
+ }
+ .pose {
+     width: 60%;
+ }
+ h2{
+     margin-bottom: 40px;
+     margin-top: 20px;
+ }
+ .slide {
+    display: flex;
+    flex-direction:reverse ;
+    width: 82.9%;
+ }
+ .black {
+     color: black;
+     background-color: rgba(255, 255, 255, .87);
+     width: 20%;
+     margin-left: 220px;
+
+ }
+ .rep {
+     align-self: center;
+     width: 400px;
+     padding-left: 100px;
+ }
+ .interviewobj{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     
+ }
+
+ .ui {
+     width: 40%;
+     margin-left: -58px;
+ }
+
+ .oj {
+     width: 40%;
+     margin-left: 50px;
+ }
+ .comp {
+     display: flex;
+     flex-direction: row;
+ }
+ .para {
+     width: 450px;
+     margin-left: 130px;
+ }
+ .centered {
+     margin-left: 85px;
+ }
+ .img-shrnk {
+     width: 100%;
+ }
+ .mrgn-left {
+     margin-left: 588px;
+ }
+ .lower {
+     margin-bottom: 20px;
+     margin-top: 40px;
+ }
+ .newps {
+     width: 55%;
+     margin: 0 auto;
+     margin-top: 30px;
+     margin-bottom: 50px;
+ }
+ .middle {
+     margin: 0 auto;
+ }
+
+ .flow {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+ }
+ .box {
+     display: flex;
+     flex-direction: column;
+     width: 25%;
+ }
+ .logo {
+     width: 100px;
+ }
+ .parag {
+     margin: 0 auto;
+     width: 40%;
+ }
+ body {
+     background-color:#f5f2f2;
+ }
+ .display-4 {
+     color: #00395a;
+ }
+ .jumbotron {
+     background-color: orange;
+     outline: #00395a solid 3px;
+ }
